@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Matthew Zhu
 - 👀 I’m interested in learning embedded systems design
 - 🌱 I’m currently learning how to use an STM32 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at myzhu@asu.edu
 
 <!---
 MatthewZhu103/MatthewZhu103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
